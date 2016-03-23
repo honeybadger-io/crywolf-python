@@ -1,0 +1,8 @@
+{
+  "name": "Honeybadger example for Python",
+  "description": "A sample Python web application which reports panics to Honeybadger.",
+  "repository": "https://github.com/honeybadger-io/crywolf-python",
+  "logo": "https://www.honeybadger.io/images/logo.jpg",
+  "keywords": ["python", "django", "exceptions", "errors", "honeybadger"],
+  "addons": [ "honeybadger" ]
+}
