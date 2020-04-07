@@ -1,4 +1,4 @@
-Django==1.9.4
-honeybadger==0.0.1
+Django==1.11.25
+honeybadger==0.2.1
 gunicorn==19.4.5
 whitenoise==2.0.6
