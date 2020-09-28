@@ -4,5 +4,9 @@
   "repository": "https://github.com/honeybadger-io/crywolf-python",
   "logo": "https://www.honeybadger.io/images/logo.jpg",
   "keywords": ["python", "django", "exceptions", "errors", "honeybadger"],
-  "addons": [ "honeybadger" ]
+  "addons": [ "honeybadger" ],
+  "env": {
+    "HONEYBADGER_ENVIRONMENT": "production",
+    "HONEYBADGER_FORCE_REPORT_DATA": "True"
+  }
 }
