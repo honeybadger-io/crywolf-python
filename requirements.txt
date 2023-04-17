@@ -1,4 +1,4 @@
 Django==1.11.25
 honeybadger==0.4.0
-gunicorn==19.4.5
+gunicorn==19.5.0
 whitenoise==2.0.6
